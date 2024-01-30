@@ -10,6 +10,7 @@ Contributions are very welcome! Please [review our contributing guidelines](http
 
 Name | Website | Region
 ------------ | ------- | -------
+[Meu Consig](/company-profiles/MeuConsig.md) | https://meuconsig.com/ | Brazil
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
